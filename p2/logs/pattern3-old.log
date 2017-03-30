@@ -1,0 +1,46 @@
+Finding features...
+Features in image #1: 4217
+Features in image #2: 4353
+Features in image #3: 5059
+Features in image #4: 5441
+Features in image #5: 5944
+Features in image #6: 5857
+Features in image #7: 5516
+Features in image #8: 5373
+Features in image #9: 5320
+Features in image #10: 5956
+Features in image #11: 5770
+Features in image #12: 5075
+Features in image #13: 5263
+Features in image #14: 5372
+Features in image #15: 5428
+Finding features, time: 14.8107 sec
+Pairwise matchingPairwise matching, time: 21.4892 sec
+Initial camera intrinsics #10:
+K:
+[1, 0, 0;
+ 0, 1, 0;
+ 0, 0, 1]
+R:
+[1, 0, 0;
+ 0, 1, 0;
+ 0, 0, 1]
+Initial camera intrinsics #11:
+K:
+[1, 0, 0;
+ 0, 1, 0;
+ 0, 0, 1]
+R:
+[0.9968729, 0.0047249892, -11.97351;
+ -0.0047249892, 0.9968729, 15.129448;
+ 0, 0, 1]
+Initial camera intrinsics #12:
+K:
+[1, 0, 0;
+ 0, 1, 0;
+ 0, 0, 1]
+R:
+[1.0222932, -0.018308397, 149.16885;
+ 0.018308397, 1.0222932, -4.7588053;
+ 0, 0, 1]
+Camera parameters adjusting failed.
